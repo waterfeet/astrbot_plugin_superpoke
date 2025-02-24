@@ -1,6 +1,6 @@
 name: superpoke # 这是你的插件的唯一识别名。
 desc: 这是 AstrBot 的高级戳一戳插件。 # 插件简短描述
-help: 输入 /superpoke 查看关键词回复帮助。 # 插件的帮助信息
+help: 输入 /superpoke help 查看关键词回复帮助。 # 插件的帮助信息
 version: v1.1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: waterfeet # 作者
 repo: https://github.com/waterfeet/astrbot_plugin_superpoke # 插件的仓库地址
