@@ -107,6 +107,10 @@ class MyPlugin(Star):
     async def getpoke(self, event: AstrMessageEvent):
         for comp in event.message_obj.message:
             if isinstance(comp, Poke):
+                
+                bot_id = event.message_obj.raw_message.get('self_id')
+                if comp.qq != bot_id:
+                    return
                 logger.info("检测到戳一戳")
                 # 具体功能
                 if self.Superpoke_Command != "":
