@@ -7,7 +7,9 @@
 给qq的戳一戳配置其他插件功能
 
 /superpoke help        
-/superpoke set <插件名> <指令名>
+
+/superpoke set <插件名> <指令名>  
+
 /allhelps
 
 
