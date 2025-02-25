@@ -8,7 +8,7 @@
 
 /superpoke help        
 
-/superpoke set <插件名> <指令名>  
+/superpoke set <指令名>  
 
 /allhelps
 
