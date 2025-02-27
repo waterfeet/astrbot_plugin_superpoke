@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Moe Counter](https://count.getloli.com/get/@GalChat?theme=moebooru)](https://github.com/waterfeet/astrbot_plugin_superpoke)
+
+</div>
+
 # 超级戳一戳
 
 作者
