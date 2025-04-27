@@ -1,1 +1,3 @@
-Superpoke_Command: allhelps
+commands:
+- command: allhelps
+  weight: 1
